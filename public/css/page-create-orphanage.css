@@ -1,0 +1,27 @@
+#page-create-orphanage {
+    display: flex;
+    min-height: 100vh;
+    background: #e2e2e2; /* retirar quando projeto estiver pronto*/
+}
+
+main {
+    flex: 1;
+}
+
+.map-container {
+    margin: 0 0 4rem;
+}
+
+.map-container .leaflet-container {
+    border-radius: 20px 20px 0 0;
+}
+
+.map-container footer {
+    background: #d3d3d3;
+    border-radius: 0 0 20px 20px;
+}
+
+
+
+
+
